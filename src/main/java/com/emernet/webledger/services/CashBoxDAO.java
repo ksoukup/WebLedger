@@ -1,4 +1,4 @@
-package com.emernet.webledger.dao;
+package com.emernet.webledger.services;
 
 import com.emernet.webledger.model.CashBox;
 
